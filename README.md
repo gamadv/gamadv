@@ -63,5 +63,5 @@
 
 <div align=center>
   <p> :wrench: Testes técnicos | :gem:  Projeto Pessoal | :triangular_flag_on_post: Projetos baseados em eventos/cursos | :computer:  Contém uma aplicação web </p> 
-   <p align=center> :iphone:  Contém uma aplicação Mobile </p>
+   <p align=center> :iphone:  Contém uma aplicação Mobile | :floppy_disk: Server / API</p>
 </div>
