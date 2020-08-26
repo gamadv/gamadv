@@ -62,9 +62,6 @@
 <h3 align=center> About repos: </h3>
 
 <div align=center>
-  <p align=center>:wrench: = Testes técnicos </p> 
-  <p align=center>:gem: = Projeto Pessoal</p>
-  <p align=center>:triangular_flag_on_post: = Projetos baseados em eventos/cursos</p>
-  <p align=center>:computer: = Contém uma aplicação web </p>
-  <p align=center>:iphone: = Contém uma aplicação web</p>
+  <p> :wrench: Testes técnicos | :gem:  Projeto Pessoal | :triangular_flag_on_post: Projetos baseados em eventos/cursos | :computer:  Contém uma aplicação web </p> 
+   <p align=center> :iphone:  Contém uma aplicação web </p>
 </div>
