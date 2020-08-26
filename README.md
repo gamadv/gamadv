@@ -1,6 +1,7 @@
 <h1 align=center> 
-  <img src="readme-assets/bnn.png" alt="Moacir gama"/>
+  <img src="readme-assets/bnn.png"/>
 </h1>
+
 <p align=center>
     <a
     href="https://web.whatsapp.com/send?phone=+557199292189" 
