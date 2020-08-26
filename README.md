@@ -1,5 +1,5 @@
 <h1 align=center> 
-  <img src="https://github.com/gamadv/gamadv/tree/master/readme-assets/bnn.png" width="500"/>
+  <img src="https://github.com/gamadv/gamadv/blob/master/readme-assets/bnn.png?raw=true" />
 </h1>
 
 <p align=center>
