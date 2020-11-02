@@ -38,7 +38,7 @@
 <p>Sou Moacir Gama, <b>Dev Full Stack :round_pushpin:</b></p> 
 <p>:page_facing_up: <b>Graduado em:</b> Análise e Desenvolvimento de Sistemas;</p>
 <p>:mortar_board:   <b>Pós Graduação:</b> Engenharia de Software;</p> 
-<p>:briefcase:      <b>Atuando como:</b> Analista de Qualidade de Software;</p>  
+<p>:briefcase:      <b>Atuando como:</b> Front-end Developer;</p>  
 
 <p> :crossed_flags: Stack em foco: &nbsp;
 <div align="center">
