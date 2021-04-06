@@ -1,5 +1,5 @@
-<h1 align=center> 
-  <img src="https://github.com/gamadv/gamadv/blob/master/readme-assets/bnn.png?raw=true" />
+<h1> 
+  Hey, Welcome 🙋‍♂️
 </h1>
 
 <p align=center>
@@ -33,14 +33,14 @@
   </a>
 </p>
 
-:checkered_flag: **Seja Bem Vindo**
+:checkered_flag: **Index**
 
-<p>Sou Moacir Gama, <b>Dev Full Stack :round_pushpin:</b></p> 
-<p>:page_facing_up: <b>Graduado em:</b> Análise e Desenvolvimento de Sistemas;</p>
-<p>:mortar_board:   <b>Pós Graduação:</b> Engenharia de Software;</p> 
-<p>:briefcase:      <b>Atuando como:</b> Front-end Developer;</p>  
+<p>I'm Moacir Gama, <b>Front End Developer :round_pushpin:</b></p> 
+<p>:page_facing_up: <b>Undergraduate Degree:</b> Systems Analysis and Development</p>
+<p>:mortar_board:   <b>Specialist Degree:</b> Software Engineering;</p> 
+<p>:briefcase:      <b>Currently:</b> Front-end VTEX IO;</p>  
 
-<p> :crossed_flags: Stack em foco: &nbsp;
+<p> :crossed_flags: Stack in Using: &nbsp;
 <div align="center">
   <h1 align=center> 
     <a href="https://www.typescriptlang.org/">
@@ -49,12 +49,6 @@
     <a href="https://pt-br.reactjs.org/docs/getting-started.html">
       <img src="https://img.shields.io/badge/ReactJS-gray">
     </a>
-    <a href="https://reactnative.dev/docs/getting-started">
-      <img src="https://img.shields.io/badge/React-Native-gray">
-    </a>
-    <a href="https://nodejs.org/en/">
-      <img src="https://img.shields.io/badge/NodeJs-gray">
-    </a>
   </h1>
 </div> 
 </p>
@@ -62,6 +56,6 @@
 <h3 align=center> About repos: </h3>
 
 <div align=center>
-  <p> :wrench: Testes técnicos | :gem:  Projeto Pessoal | :triangular_flag_on_post: Projetos baseados em eventos/cursos | :computer:  Contém uma aplicação web </p> 
-   <p align=center> :iphone:  Contém uma aplicação Mobile | :floppy_disk: Server / API</p>
+  <p> :wrench: Challenges | :gem:  Personal Project | :triangular_flag_on_post: Events/Workshop Projects | :computer: Web Application </p> 
+   <p align=center> :iphone:  Mobile Application | :floppy_disk: Server / API</p>
 </div>
