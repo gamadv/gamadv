@@ -51,6 +51,20 @@
  </h1>
 </p>
 
+<h1> 
+<a href="https://github.com/gamadv/gamadv">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamadv&layout=compact&theme=prussian" />
+</a>
+</h1>
+
+<h1> 
+<a href="https://github.com/gamadv/gamadv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gamadv&show_icons=true&include_all_commits=true&theme=prussian" alt="Gamadv Github stats" />
+</a>
+</h1>
+
+
 <h3 align=center> About repos: </h3>
 
 <div align=center>
