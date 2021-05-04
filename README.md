@@ -38,19 +38,17 @@
 <p>I'm Moacir Gama, <b>Front End Developer :round_pushpin:</b></p> 
 <p>:page_facing_up: <b>Undergraduate Degree:</b> Systems Analysis and Development</p>
 <p>:mortar_board:   <b>Specialist Degree:</b> Software Engineering;</p> 
-<p>:briefcase:      <b>Currently:</b> Front-end VTEX IO;</p>  
+<p>:briefcase:      <b>Currently:</b> Front-end;</p>  
 
 <p> :crossed_flags: Stack in Using: &nbsp;
-<div align="center">
-  <h1 align=center> 
-    <a href="https://www.typescriptlang.org/">
-      <img src="https://img.shields.io/badge/TypeScript-gray">
-    </a>
-    <a href="https://pt-br.reactjs.org/docs/getting-started.html">
-      <img src="https://img.shields.io/badge/ReactJS-gray">
-    </a>
-  </h1>
-</div> 
+<h1>  
+  <a href="https://www.typescriptlang.org/" target="_blank"  rel="noopener noreferrer" >
+    <img src="https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555">
+  </a>
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank"  rel="noopener noreferrer">
+    <img src="https://badges.aleen42.com/src/react.svg">
+  </a>
+ </h1>
 </p>
 
 <h3 align=center> About repos: </h3>
