@@ -60,7 +60,7 @@
 
 <h1> 
 <a href="https://github.com/gamadv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gamadv&show_icons=true&include_all_commits=true&theme=prussian" alt="Gamadv Github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gamadv&show_icons=true&include_all_commits=true&count_private=true&theme=prussian" alt="Gamadv Github stats" />
 </a>
 </h1>
 
