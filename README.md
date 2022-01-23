@@ -68,6 +68,6 @@
 <h3 align=center> About repos: </h3>
 
 <div align=center>
-  <p> :wrench: Challenges | :gem:  Personal Project | :triangular_flag_on_post: Events/Workshop Projects | :computer: Web Application </p> 
-   <p align=center> :iphone:  Mobile Application | :floppy_disk: Server / API</p>
+  <p> :wrench: Challenges | :gem:  Personal Project | :triangular_flag_on_post: Events/Workshop Projects | :books: Study Projects </p> 
+   <p align=center> :computer: Web Application  :iphone:  Mobile Application | :floppy_disk: Server / API</p>
 </div>
