@@ -8,29 +8,29 @@
     alt="WhatsApp"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-gray?style=flat&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a
     href="mailto:moacirgamaleal@gmail.com" 
     alt="Outlook"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Gmail-gray?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/gama-leal/" 
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a
+<!--    <a
     href="https://app.rocketseat.com.br/me/gama-leal" 
     alt="LinkedIn"
     target="blank"
   >
     <img src="https://img.shields.io/badge/Blog-Rocketseat-gray"/>
-  </a>
+  </a> -->
 </p>
 
 :checkered_flag: **Index**
@@ -43,10 +43,16 @@
 <p> :crossed_flags: Stack in Using: &nbsp;
 <h1>  
   <a href="https://www.typescriptlang.org/" target="_blank"  rel="noopener noreferrer" >
-    <img src="https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
   <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank"  rel="noopener noreferrer">
-    <img src="https://badges.aleen42.com/src/react.svg">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  </a>
+   <a href="https://nextjs.org/" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  </a>
+  <a href="https://chakra-ui.com/" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white">
   </a>
  </h1>
 </p>
