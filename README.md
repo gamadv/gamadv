@@ -57,11 +57,11 @@
  </h1>
 </p>
 
-<h1> 
+<div align=center> 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gamadv&show_icons=true&include_all_commits=true&count_private=true&theme=prussian" alt="Gamadv Github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamadv&layout=compact&theme=prussian" />
-</h1>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamadv&layout=compact&theme=prussian" width="350px" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gamadv&show_icons=true&include_all_commits=true&count_private=true&theme=prussian" alt="Gamadv Github stats" width="400px" height="150px" />
+</div>
 
 
 
