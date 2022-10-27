@@ -38,9 +38,9 @@
 <p>I'm Moacir Gama, <b>Front End Developer :round_pushpin:</b></p> 
 <p>:page_facing_up: <b>Undergraduate Degree:</b> Systems Analysis and Development</p>
 <p>:mortar_board:   <b>Specialist Degree:</b> Software Engineering;</p> 
-<p>:briefcase:      <b>Currently:</b> Front-end;</p>  
+<p>:briefcase:      <b>Currently:</b> Front-end -> Goal to FullStack JS;</p>  
 
-<p> :crossed_flags: Stack in Using: &nbsp;
+<p> :crossed_flags: Stack in Using:
 <h1>  
   <a href="https://www.typescriptlang.org/" target="_blank"  rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -54,6 +54,29 @@
   <a href="https://chakra-ui.com/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white">
   </a>
+  <a href="https://tailwindcss.com/" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a>
+ </h1>
+</p>
+
+<p> :crossed_flags: Experience with:
+<h1>  
+   <a href="https://chakra-ui.com/" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white">
+  </a>
+  <a href="https://styled-components.com/" target="_blank"  rel="noopener noreferrer" >
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="25"/>
+  </a>
+   <a href="https://www.npmjs.com/package/sass" target="_blank"  rel="noopener noreferrer" >
+        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="25"/>
+    </a>
+   <a href="https://storybook.js.org/" target="_blank"  rel="noopener noreferrer" >
+        <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="25">
+    </a>
+     <a href="https://www.npmjs.com/package/@testing-library/react" target="_blank"  rel="noopener noreferrer" >
+        <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" height="25"/>
+    </a>&nbsp;&nbsp;
  </h1>
 </p>
 
