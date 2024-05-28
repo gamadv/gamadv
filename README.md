@@ -1,47 +1,43 @@
-<h1> 
+<h1>
   Hey, Welcome 🙋‍♂️
 </h1>
 
 <p align=center>
     <a
-    href="https://web.whatsapp.com/send?phone=+557199292189" 
+    href="https://web.whatsapp.com/send?phone=+557199292189"
     alt="WhatsApp"
     target="blank"
   >
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a
-    href="mailto:moacirgamaleal@gmail.com" 
+    href="mailto:moacirgamaleal@gmail.com"
     alt="Outlook"
     target="blank"
   >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a
-    href="https://www.linkedin.com/in/gama-leal/" 
+    href="https://www.linkedin.com/in/gama-leal/"
     alt="LinkedIn"
     target="blank"
   >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<!--    <a
-    href="https://app.rocketseat.com.br/me/gama-leal" 
-    alt="LinkedIn"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/Blog-Rocketseat-gray"/>
-  </a> -->
 </p>
+
+I've been working in systems development for about 8 years, focused on the Web, using HTML/CSS/JavaScript and other tools such as REACT JS.  I've had some experiences that have improved my professional profile, both in hard and soft skills.  Looking for new challenges to leverage my skills with Front End development focused on React JS and related technologies.
+I'm here to solve problems and provide the best user experience above all else.
 
 :checkered_flag: **Index**
 
-<p>I'm Moacir Gama, <b>Front End Developer :round_pushpin:</b></p> 
+<p>I'm Moacir Gama, <b>Front End Developer :round_pushpin:</b></p>
 <p>:page_facing_up: <b>Undergraduate Degree:</b> Systems Analysis and Development</p>
-<p>:mortar_board:   <b>Specialist Degree:</b> Software Engineering;</p> 
-<p>:briefcase:      <b>Currently:</b> Front-end -> Goal to FullStack JS;</p>  
+<p>:mortar_board:   <b>Specialist Degree:</b> Software Engineering;</p>
+<p>:briefcase:      <b>Currently:</b> Front-end -> Goal to FullStack JS;</p>
 
 <p> :crossed_flags: Stack in Using:
-<h1>  
+<h1>
   <a href="https://www.typescriptlang.org/" target="_blank"  rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
@@ -61,7 +57,7 @@
 </p>
 
 <p> :crossed_flags: Experience with:
-<h1>  
+<h1>
    <a href="https://chakra-ui.com/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white">
   </a>
@@ -80,7 +76,7 @@
  </h1>
 </p>
 
-<div align=center> 
+<div align=center>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamadv&layout=compact&theme=prussian" width="350px" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api?username=gamadv&show_icons=true&include_all_commits=true&count_private=true&theme=prussian" alt="Gamadv Github stats" width="400px" height="150px" />
@@ -91,6 +87,6 @@
 <h3 align=center> About repos: </h3>
 
 <div align=center>
-  <p> :wrench: Challenges | :gem:  Personal Project | :triangular_flag_on_post: Events/Workshop Projects | :books: Study Projects </p> 
+  <p> :wrench: Challenges | :gem:  Personal Project | :triangular_flag_on_post: Events/Workshop Projects | :books: Study Projects </p>
    <p align=center> :computer: Web Application  :iphone:  Mobile Application | :floppy_disk: Server / API</p>
 </div>
