@@ -1,13 +1,8 @@
-<h1>
-  Hey, Welcome 🙋‍♂️
-</h1>
-
 
 I've been working in systems development for about 8 years, focused on the Web, using HTML/CSS/JavaScript and other tools such as REACT JS.  I've had some experiences that have improved my professional profile, both in hard and soft skills.  Looking for new challenges to leverage my skills with Front End development focused on React JS and related technologies.
 I'm here to solve problems and provide the best user experience above all else.
 
-
-## :crossed_flags: Stack:
+### Main techs 🛠️🛠️:
 <div>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -21,7 +16,17 @@ I'm here to solve problems and provide the best user experience above all else.
     <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" height="25"/>
  </div>
 
- ## Get in touch
+<br /><br />
+
+### Study topics 📚📚
+* Backend
+  *  Node
+  *  Python 
+* IA
+  
+<br /><br />
+
+###  Get in touch 🫱🏽‍🫲 🫱🏽‍🫲
 <div>
     <a
     href="https://web.whatsapp.com/send?phone=+557199292189"
@@ -47,7 +52,6 @@ I'm here to solve problems and provide the best user experience above all else.
 </div>
 
 <br /><br />
-
 
 <div align=center>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
