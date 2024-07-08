@@ -1,6 +1,10 @@
 
-I've been working in systems development for about 8 years, focused on the Web, using HTML/CSS/JavaScript and other tools such as REACT JS.  I've had some experiences that have improved my professional profile, both in hard and soft skills.  Looking for new challenges to leverage my skills with Front End development focused on React JS and related technologies.
-I'm here to solve problems and provide the best user experience above all else.
+
+- 💼 Senior Front end Enginneer over 8 Years
+- 🔨 Main Stack: Javascript / Typescript (React | Node)
+- 🎯 Becoming Full Stack Developer
+- 🖤 Solving problems with Code
+
 
 ### Main techs 🛠️🛠️:
 <div>
@@ -16,15 +20,7 @@ I'm here to solve problems and provide the best user experience above all else.
     <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" height="25"/>
  </div>
 
-<br /><br />
-
-### Study topics 📚📚
-* Backend
-  *  Node
-  *  Python 
-* IA
-  
-<br /><br />
+<br />
 
 ###  Get in touch 🫱🏽‍🫲 🫱🏽‍🫲
 <div>
@@ -50,10 +46,8 @@ I'm here to solve problems and provide the best user experience above all else.
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-<br /><br />
-
-<div align=center>
+<br />
+<div align=left>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamadv&layout=compact&theme=prussian" width="350px" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api?username=gamadv&show_icons=true&include_all_commits=true&count_private=true&theme=prussian" alt="Gamadv Github stats" width="400px" height="150px" />
