@@ -1,8 +1,8 @@
 
 
-- 💼 Senior Front end Enginneer over 8 Years
+- 💼 Senior Software Enginneer over 8 Years (Front end focus)
 - 🔨 Main Stack: Javascript / Typescript (React | Node)
-- 🎯 Becoming Full Stack Developer
+- 🎯 Evoluation as Full Stack (Full Cycle) Developer
 - 🖤 Solving problems with Code
 
 
