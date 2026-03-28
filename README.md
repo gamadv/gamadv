@@ -102,42 +102,24 @@ highlights:
 
 ### Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/gamadv/quad-dash">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gamadv&repo=quad-dash&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/gamadv/quad-dash-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gamadv&repo=quad-dash-api&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/gamadv/quad-ui-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gamadv&repo=quad-ui-system&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/gamadv/groil-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gamadv&repo=groil-analyzer&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
-</a>
-</td>
-</tr>
-</table>
+> **quad-dash** — E-commerce Dashboard &nbsp; [![Repo](https://img.shields.io/badge/&#x1f517;_repo-0d1117?style=flat-square)](https://github.com/gamadv/quad-dash)
+> `Next.js` `shadcn/ui` `Radix` `Zod` `React Hook Form` `Tailwind`
+
+> **quad-dash-api** — Store Dashboard API &nbsp; [![Repo](https://img.shields.io/badge/&#x1f517;_repo-0d1117?style=flat-square)](https://github.com/gamadv/quad-dash-api)
+> `Elysia.js` `Bun` `Drizzle ORM` `PostgreSQL` `Docker` `JWT`
+
+> **quad-ui-system** — Personal Design System (monorepo) &nbsp; [![Repo](https://img.shields.io/badge/&#x1f517;_repo-0d1117?style=flat-square)](https://github.com/gamadv/quad-ui-system)
+> `Turborepo` `Storybook` `Stitches` `Changeset` `tsup`
+
+> **groil-analyzer** — Oil Equipment Analyzer (Full Stack) &nbsp; [![Repo](https://img.shields.io/badge/&#x1f517;_repo-0d1117?style=flat-square)](https://github.com/gamadv/groil-analyzer)
+> `NestJS` `Prisma` `React` `shadcn/ui` `Docker` `Swagger`
+
+> **repo-idol** — GitHub User Search with E2E tests &nbsp; [![Repo](https://img.shields.io/badge/&#x1f517;_repo-0d1117?style=flat-square)](https://github.com/gamadv/repo-idol)
+> `Next.js 14` `SWR` `Cypress` `Jest` `Testing Library` `Tailwind`
 
 ---
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gamadv&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&icon_color=58a6ff&ring_color=1f6feb" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamadv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamadv&theme=github-dark-blue&hide_border=true&background=0d1117" />
 
